@@ -2,8 +2,14 @@
 
 <h3>
 Project Name: Library Management System
+</h3>
+<h3>
 Type: Command Line Program
+</h3>
+<h3>
 Written in: C Programming Language
+</h3>
+<h3>
 Number of Lines of Code: 2318
 </h3>
 
