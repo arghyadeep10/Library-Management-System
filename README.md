@@ -1,4 +1,4 @@
-<h1>CS50 Final Project</h1>
+<h1>Library Management System using C</h1>
 
 <h3>
 Project Name: Library Management System
@@ -14,7 +14,7 @@ Number of Lines of Code: 2318
 </h3>
 
 <h2>Why I chose this Project?</h2>
-Answer:
+
 Most libraries around the world, still follow the manual system. Generally in
 this manual system, the customer/student needs to fill up his details on a card
 attached to the book that he borrowed. He also needs to do the same on his
@@ -43,8 +43,7 @@ abstractions that they provide. To develop anything in C, you almost always
 need to write your code from scratch. So I felt, as a beginner to programming,
 creating a project in C would really help with the Fundamentals of C and
 programming itself and also give me the opportunity to showcase my new
-found knowledge of this programming language that I obtained from the CS50
-course itself.
+found knowledge of this programming language.
 
 <h2>Overview of the project:</h2>
 
