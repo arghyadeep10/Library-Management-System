@@ -115,3 +115,8 @@ Apart from this a unique text file is created for each student, librarian and ea
 2. Each student has his separate text file of type : "student_id"acd.txt for his details and "student_id"tra.txt for his book issue/return with the library
 
 3. Each librarian has his separate text file of type : "librarian_login_id"lib.txt for his details.
+
+<h4>Disclaimer</h4>
+The project has been created as a Computer Science Project. It is solely for a personal educational purposes only and is meant to be a Personal Educational project and not a commercial entity. All the details, info, names, logos e.t.c (if any) displayed in the application, or any of its documentation on this README or anywhere else in the app, or in Github, or any of its video demonstrations are completely fictional and used solely for sake of explanation and demonstration. 
+
+The source code of this project (Library Management System) has been made public in Github (since it is a Personal Educational project), however any type of misuse of the app and its source code is not permitted.
