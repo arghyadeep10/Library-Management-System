@@ -34,7 +34,7 @@ of book issue and return fast and efficient.
 <h2>Reasons for Choosing C:</h2>
 There were many reasons for choosing C for this project. Some of them were :
 Fast processing speed
-Low Level Abstraction and greater control over the computer’s system.
+Low Level Abstraction and greater control over the computer’s system including its memory.
 Especially the low level access to computer memory using pointers.
 Extensive File I/O
 I know that many programming languages allow us to do the same thing and
